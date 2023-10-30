@@ -1,0 +1,13 @@
+{
+  "name": "programming_exercises",
+  "version": "1.0.0",
+  "description": "in this repository i'm going to upload a set of excersices, i hope one by day",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
